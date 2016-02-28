@@ -118,3 +118,11 @@ A curated list of awesome Deployment tools and services.
 #### Tools
   * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
   * [deliver](https://github.com/gerhard/deliver) - Pure bash deployment tool with customisable strategies.
+
+
+
+---
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
