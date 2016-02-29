@@ -14,7 +14,7 @@ A curated list of awesome Deployment tools and services.
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell) 
-  - [C++](#cpp) 
+  - [C++](#c) 
 
 ## Elixir
 
