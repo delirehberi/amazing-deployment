@@ -14,6 +14,7 @@ A curated list of awesome Deployment tools and services.
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell) 
+  - [C++](#cpp) 
 
 ## Elixir
 
@@ -119,7 +120,10 @@ A curated list of awesome Deployment tools and services.
   * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
   * [deliver](https://github.com/gerhard/deliver) - Pure bash deployment tool with customisable strategies.
 
+## C++
 
+#### Tools
+  * [filezilla](https://filezilla-project.org/) - Most elegant CI & deploy tool
 
 ---
 
