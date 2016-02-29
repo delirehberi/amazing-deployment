@@ -123,7 +123,7 @@ A curated list of awesome Deployment tools and services.
 ## C++
 
 #### Tools
-  * [filezilla](https://filezilla-project.org/) - Most elegant CI & deploy tool
+  * [filezilla](https://filezilla-project.org/) - Most elegant CI & deploy tool 😘
 
 ---
 
