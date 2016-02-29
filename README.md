@@ -3,7 +3,7 @@
 A curated list of awesome Deployment tools and services.
 
 - [Table Of Contents](#table-of-contents)
-  - [Elixir](#elixir-tools)
+  - [Elixir](#elixir)
   - [ColdFusion](#coldfusion)
   - [Go](#go)
   - [Java](#java)
