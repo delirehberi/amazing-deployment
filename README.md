@@ -48,6 +48,7 @@ A curated list of awesome Deployment tools and services.
   * [Rubber](https://github.com/rubber/rubber) - The rubber plugin enables relatively complex multi-instance deployments of RubyOnRails applications to Amazon's Elastic Compute Cloud (EC2).
   * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
   * [deliver](https://github.com/gerhard/deliver) - Pure bash deployment tool with customisable strategies.
+  * [visionmedia/deploy](https://github.com/visionmedia/deploy) - Minimalistic deployment shell script
 
 
 
