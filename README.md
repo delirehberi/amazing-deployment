@@ -60,6 +60,7 @@ A curated list of awesome Deployment tools and services.
   * [Wercker](http://wercker.com/) - A Docker-based platform for building and deploying applications and microservices.
   * [SemaphoreCI](https://semaphoreapp.com/) - Hosted continuous integration and deployment service for open source and private projects.
   * [DeployHQ](http://deployhq.com) - My best for simple projects. Deploy code from Codebase, GitHub & BitBucket in minutes!
+  * [DeployBot](http://deploybot.com/) - Push. Build. Deploy!
 
 #### Best of Best
   * [filezilla](https://filezilla-project.org/) - Most elegant CI & deploy tool 😘
