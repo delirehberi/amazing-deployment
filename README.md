@@ -63,6 +63,7 @@ A curated list of awesome Deployment tools and services.
   * [SemaphoreCI](https://semaphoreapp.com/) - Hosted continuous integration and deployment service for open source and private projects.
   * [DeployHQ](http://deployhq.com) - My best for simple projects. Deploy code from Codebase, GitHub & BitBucket in minutes!
   * [DeployBot](http://deploybot.com/) - Push. Build. Deploy!
+  * [DockBit](https://dockbit.com/) - Dockbit turns your software deployments into repeatable, manageable workflows. Bring your team together and ship better.
 
 #### Best of Best
   * [filezilla](https://filezilla-project.org/) - Most elegant CI & deploy tool 😘
