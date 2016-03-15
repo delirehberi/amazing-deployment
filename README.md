@@ -51,6 +51,7 @@ A curated list of awesome Deployment tools and services.
   * [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
   * [deliver](https://github.com/gerhard/deliver) - Pure bash deployment tool with customisable strategies.
   * [visionmedia/deploy](https://github.com/visionmedia/deploy) - Minimalistic deployment shell script
+  * [Spinnaker](http://spinnaker.io) - Multi-Cloud immutable infrastructure deployment tool from Netflix.
 
 
 
