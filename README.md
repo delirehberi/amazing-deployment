@@ -10,8 +10,9 @@ A curated list of awesome Deployment tools and services.
   - [Libraries](#libraries)
 
 ## Resources
-  * [Software Deployment](https://en.wikipedia.org/wiki/Software_deployment) - What is Software Deployment? - Ofcourse wikipedia!
+  * [Software Deployment](https://en.wikipedia.org/wiki/Software_deployment) - What is Software Deployment? - Of course wikipedia!
   * [Symfony Deployment](https://github.com/o/symfony-build-deploy) - Best Practices by [O](https://github.com/o)
+  * [DevOps Bookmarks](http://www.devopsbookmarks.com/ci) - Contains useful listings for DevOps tasks, including CI / CD
 
 ## Tools
  
