@@ -1,7 +1,7 @@
-# Awesome Deployment  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Amazing Deployment  
 
 
-A curated list of awesome Deployment tools and services.
+A curated list of amazing Deployment tools and services.
 
 - [Table Of Contents](#table-of-contents)
   - [Resources](#resources)
