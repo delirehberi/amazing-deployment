@@ -68,6 +68,8 @@ A curated list of amazing Deployment tools and services.
   * [DeployBot](http://deploybot.com/) - Push. Build. Deploy!
   * [DockBit](https://dockbit.com/) - Dockbit turns your software deployments into repeatable, manageable workflows. Bring your team together and ship better.
   * [Gemfury](https://gemfury.com/) - Hosted Package Repository: RubyGems, npm, PyPI, Bower, and more. **[$]** **[Free for OSS]**
+  * [Distelli](https://www.distelli.com/) - BUILD, TEST, AND DEPLOY CODE FASTER
+
 
 #### Best of Best
   * [filezilla](https://filezilla-project.org/) - Most elegant CI & deploy tool 😘
