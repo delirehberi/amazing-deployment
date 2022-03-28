@@ -54,6 +54,7 @@ A curated list of amazing Deployment tools and services.
   * [deliver](https://github.com/gerhard/deliver) - Pure bash deployment tool with customisable strategies.
   * [visionmedia/deploy](https://github.com/visionmedia/deploy) - Minimalistic deployment shell script
   * [Spinnaker](http://spinnaker.io) - Multi-Cloud immutable infrastructure deployment tool from Netflix.
+  * [Stacktape](http://stacktape.com) - DevOps-free cloud framework for deploying applications to AWS.
 
 
 
