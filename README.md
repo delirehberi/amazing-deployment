@@ -41,7 +41,7 @@ A curated list of amazing Deployment tools and services.
   * [Capistrano](http://capistranorb.com) - A remote server automation and deployment tool written in Ruby.
   * [Spinnaker](http://spinnaker.io) - Multi-Cloud immutable infrastructure deployment tool from Netflix.
   * [Stacktape](http://stacktape.com) - DevOps-free cloud framework for deploying applications to AWS.
-
+  * [Open Computer Orchestration](https://github.com/schorschii/OCO-Server) - Endpoint Software Deployment (Linux, macOS & Windows clients)
 
 
 ## Services
