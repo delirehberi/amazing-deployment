@@ -21,7 +21,6 @@ A curated list of amazing Deployment tools and services.
   * [Gitlab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
   * [GO](http://www.go.cd/) - Open source continuous delivery server.
   * [ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
-  * [exdm](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
   * [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang. 
   * [Stack Up](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
   * [Singularity](http://getsingularity.com/) - Singularity is a Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
@@ -41,7 +40,6 @@ A curated list of amazing Deployment tools and services.
   * [Capistrano](http://capistranorb.com) - A remote server automation and deployment tool written in Ruby.
   * [Spinnaker](http://spinnaker.io) - Multi-Cloud immutable infrastructure deployment tool from Netflix.
   * [Stacktape](http://stacktape.com) - DevOps-free cloud framework for deploying applications to AWS.
-  * [Open Computer Orchestration](https://github.com/schorschii/OCO-Server) - Endpoint Software Deployment (Linux, macOS & Windows clients)
 
 
 ## Services
