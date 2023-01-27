@@ -1,7 +1,8 @@
 # Amazing Deployment  
 
 
-A curated list of amazing Deployment tools and services.
+A curated list of amazing Deployment 
+and services.
 
 - [Table Of Contents](#table-of-contents)
   - [Resources](#resources)
@@ -40,7 +41,7 @@ A curated list of amazing Deployment tools and services.
   * [Capistrano](http://capistranorb.com) - A remote server automation and deployment tool written in Ruby.
   * [Spinnaker](http://spinnaker.io) - Multi-Cloud immutable infrastructure deployment tool from Netflix.
   * [Stacktape](http://stacktape.com) - DevOps-free cloud framework for deploying applications to AWS.
-
+  * [Flatlogic Platform](https://flatlogic.com/crud-app) - Create full-stack CRUD web application boilerplate in minutes. Define database schema and get production-ready full-stack web app built with React, Angular or Vue.
 
 ## Services
 
