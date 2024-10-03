@@ -15,7 +15,7 @@ A curated list of amazing Deployment tools and services.
   * [DevOps Bookmarks](http://www.devopsbookmarks.com/ci) - Contains useful listings for DevOps tasks, including CI / CD
 
 ## Tools
- 
+  * [Kamal Deploy](https://kamal-deploy.org/) - Deploy web apps anywhere. From bare metal to cloud VMs. {from basecamp}
   * [NixOps](https://nixos.org/nixops/manual/) - NixOps is a tool for deploying NixOS machines in a network or cloud. It takes as input a declarative specification of a set of “logical” machines and then performs any necessary steps or actions to realise that specification: instantiate cloud machines, build and download dependencies, stop and start services, and so on.
   * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
   * [Gitlab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
